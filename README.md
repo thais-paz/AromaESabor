@@ -1,2 +1,2 @@
-# AromaESabores
-Projeto de front-end para faculdade
+# AromaESabor
+Projeto front-end de uma cafeteria 
